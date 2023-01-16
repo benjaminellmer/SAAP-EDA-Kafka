@@ -58,7 +58,7 @@ docker run -d -p 3000:3000 --name=grafana -e "GF_INSTALL_PLUGINS=grafana-clock-p
 
 ### Run Telegram Monitoring Service
 Create a [Telegram Bot Token](https://sendpulse.com/knowledge-base/chatbot/telegram/create-telegram-chatbot).
-Paste the token into getBotToken() of the EquipmentStatusBot class.
+Paste the token into getBotToken() of the EquipmentStatusBot class. (Don't try the current one it is revoked)
 Then run the Service using: 
 ```
 cd TelegramService
