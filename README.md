@@ -2,7 +2,21 @@
 Code and Paper for my Software Architecture and Patterns Topic Event-Driven Architecture with Apache Kafka
 
 ## Paper
-Coming soon...
+### Abstract
+The Event-Driven Architecture and Apache Kafka play an important role in the software development industry.
+Using them together leads to extremely flexible and highly scalable software architectures that are able to process massive loads of data with an incredible efficiency.
+Especially regarding Big Data and Internet of Things the Event-Driven Architecture tends to become a state-of-the-art pattern.
+Furthermore, the use of the Microservice pattern enhances the Event-Driven Architecture leading to fully decoupled and highly coherent services.
+In addition, using the Apache Kafka Message broker ensures mechanisms to achieve high performance, fault tolerance and much more.
+
+This paper will explain the key concepts of both technologies and show an example application, which demonstrates how good Apache Kafka and Event-Driven Architectures work together.
+The main focus of this paper is providing the necessary information that the readers of this paper are able to design an application using the Event-Driven Architecture and Apache Kafka.
+Furthermore, the readers should understand why and when to use this technology stack and for which situations it is more appropriate to use an alternative architecture or and alternative messaging system.
+Moreover, the example project should provide a good starting point for all kinds of applications.
+The use-cases provided in the Related Work section should inspire the readers to adapt this sample architecture depending on the specific requirements of their applications.
+
+### References
+- [Paper](./Paper/Event-Driven-Architecture-with-Apache-Kafka.pdf)
 
 ## Project
 To start the project install Kafka start an instance and create the needed topic.
